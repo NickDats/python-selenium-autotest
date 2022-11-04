@@ -1,1 +1,1 @@
-# python-selenium-autotest
+Автотесты, написанные на Selenium Python 
